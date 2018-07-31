@@ -1,0 +1,64 @@
+
+body{
+    background-image: url(../img/Cucina.png);
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    color: white;
+}
+.size-A{
+    background-color: rgba(245, 245, 220, 0.6);
+}
+.size-A1{
+    margin-top: 15px;
+}
+
+.rap{
+    border: solid 0.5px rgba(102, 51, 153, 0.39);
+    
+}
+.sot-tit{
+    margin-bottom: 0px;
+}
+a{
+    color: rgba(102, 51, 153, 100);
+}
+.sezione{
+    border-bottom: solid 1.5px white;
+    margin-bottom: 25px;
+    background-color: rgba(0, 255, 255, 0.589);
+}
+.fila-p{
+    border-bottom: solid 0.5px white;
+    margin-bottom: 10px;
+}
+
+.sotto{
+    margin-top: 5px;
+}
+.trova{
+    margin-top: 10px;
+}
+.fila{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.prima{
+    padding: 0px;
+}
+textarea{
+    margin-bottom: 5px;
+}
+
+h4{
+    margin-left: 20px;
+}
+.img-prima{
+    padding: 0px;
+}
+.pastaRagu{
+    height: 300px;
+}
